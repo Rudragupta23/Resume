@@ -8,7 +8,7 @@ I am a B.Tech Computer Science Engineering student at Vellore Institute of Techn
 ---
 
 ## 🎓 Education
-- **B.Tech CSE (Core)** - Vellore Institute of Technology, Bhopal (2023 - Present) | *CGPA: 8.98/10*
+- **B.Tech CSE (Core)** - Vellore Institute of Technology, Bhopal (2023 - Present) | *CGPA: 9.00/10*
 - **Class XII** - Govt Model Sanskriti Sr Sec School, Jagadhri (2023) | *80.8%*
 - **Class X** - St. Thomas School, Jagadhri (2021) | *95.4%*
 
