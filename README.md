@@ -1,6 +1,6 @@
 # Hi there, I'm Rudra Gupta 👋
 
-I am a B.Tech Computer Science Engineering student at Vellore Institute of Technology (VIT), Bhopal, passionate about software development, full-stack web applications, and problem-solving. 
+I am a B.Tech Final Year Computer Science and Engineering student at Vellore Institute of Technology (VIT), Bhopal.
 
 📫 **Contact Me:** [23rudragupta@gmail.com](mailto:23rudragupta@gmail.com) | 📞 +91 98968 00458
 🔗 **Links:** [Portfolio](https://rudraguptaportfolio.live/) | [GitHub](https://github.com/Rudragupta23) | [LinkedIn](https://linkedin.com/in/rudrag23)
