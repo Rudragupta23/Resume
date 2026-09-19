@@ -19,7 +19,7 @@ I am a B.Tech Final Year Computer Science and Engineering student at Vellore Ins
 - **Frontend:** HTML5, CSS, JavaScript, Figma, Tailwind CSS
 - **Backend:** REST APIs, Django, MongoDB
 - **Databases:** MySQL, SQLite
-- **Cloud & DevOps:** Amazon Web Services (AWS), Git, Docker, Vercel, Render, Netlify
+- **Cloud & DevOps:** Amazon Web Services (AWS), Git, Vercel, Render, Netlify
 - **Core CS:** Data Structures and Algorithms
 
 ---
