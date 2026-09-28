@@ -15,7 +15,7 @@ I am a B.Tech Final Year Computer Science and Engineering student at Vellore Ins
 ---
 
 ## 💻 Technical Skills
-- **Languages:** Java, C, C++, Python
+- **Languages:** Java, Python
 - **Frontend:** HTML5, CSS, JavaScript, Figma, Tailwind CSS
 - **Backend:** REST APIs, Django, MongoDB
 - **Databases:** MySQL, SQLite
