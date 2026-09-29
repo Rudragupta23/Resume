@@ -32,11 +32,11 @@ I’m a final-year Computer Science and Engineering student at **Vellore Institu
 
 ## 💼 Experience
 
-### Full Stack Developer Intern — The Cognitive
+### Full Stack Developer Intern - The Cognitive
 
 **Toronto, ON, Canada (Remote) | Aug 2026 – Sep 2026**
 
-**MathCom Mentors** — React.js, Node.js, MongoDB, AWS
+**MathCom Mentors** - React.js, Node.js, MongoDB, AWS
 
 * Owned the project end to end for a **London-based client**, turning requirements into a full-stack platform with **4 user roles**: admin/teacher, grader, student and parent.
 * Built the complete **homework workflow** where teachers assign work, students submit it and graders evaluate submissions with written feedback.
@@ -87,10 +87,10 @@ I’m a final-year Computer Science and Engineering student at **Vellore Institu
 
 ## 🏆 Certifications
 
-* **AWS Cloud Practitioner Essentials – Gold (93%)** — FutureSkills Prime (NASSCOM IT-ITeS SSC & MeitY), 2026
-* **Oracle Certified Foundations Associate – Agentic AI** — Oracle University, 2026
-* **MongoDB Java Developer Path — Indexing Design Fundamentals** — MongoDB, 2026
-* **Frontend Developer (React), Node.js, SQL, CSS** — HackerRank, 2026
+* **AWS Cloud Practitioner Essentials – Gold (93%)** - FutureSkills Prime (NASSCOM IT-ITeS SSC & MeitY), 2026
+* **Oracle Certified Foundations Associate – Agentic AI** - Oracle University, 2026
+* **MongoDB Java Developer Path - Indexing Design Fundamentals** - MongoDB, 2026
+* **Frontend Developer (React), Node.js, SQL, CSS** - HackerRank, 2026
 
 ---
 
