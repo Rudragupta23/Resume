@@ -1,58 +1,111 @@
 # Hi there, I'm Rudra Gupta 👋
 
-I am a B.Tech Final Year Computer Science and Engineering student at Vellore Institute of Technology.
+**Full Stack Developer | B.Tech CSE | VIT Bhopal**
 
-📫 **Contact Me:** [23rudragupta@gmail.com](mailto:23rudragupta@gmail.com) | 📞 +91 98968 00458
-🔗 **Links:** [Portfolio](https://rudraguptaportfolio.live/) | [GitHub](https://github.com/Rudragupta23) | [LinkedIn](https://linkedin.com/in/rudrag23)
+I’m a final-year Computer Science and Engineering student at **Vellore Institute of Technology, Bhopal**, with a **9.15/10.0 CGPA**. I enjoy building full-stack applications, working with cloud services and solving real-world problems through software.
+
+📫 **Contact:** [23rudragupta@gmail.com](mailto:23rudragupta@gmail.com) | +91 98968 00458
+🔗 **Portfolio:** [rudraguptaportfolio.live](https://rudraguptaportfolio.live/) | **GitHub:** [Rudragupta23](https://github.com/Rudragupta23) | **LinkedIn:** [rudrag23](https://linkedin.com/in/rudrag23)
 
 ---
 
 ## 🎓 Education
-- **B.Tech CSE (Core)** - Vellore Institute of Technology, Bhopal (2023 - Present) | *CGPA: 9.15/10*
-- **Class XII** - Govt Model Sanskriti Sr Sec School, Jagadhri (2023) | *80.8%*
-- **Class X** - St. Thomas School, Jagadhri (2021) | *95.4%*
+
+* **Vellore Institute of Technology, Bhopal**
+
+  * Bachelor of Technology (B.Tech), Computer Science and Engineering
+  * **Sep 2023 – May 2027**
+  * **CGPA: 9.15/10.0**
 
 ---
 
 ## 💻 Technical Skills
-- **Languages:** Java, Python
-- **Frontend:** HTML5, CSS, JavaScript, Figma, Tailwind CSS
-- **Backend:** REST APIs, Django, MongoDB
-- **Databases:** MySQL, SQLite
-- **Cloud & DevOps:** Amazon Web Services (AWS), Git, Vercel, Render, Netlify
-- **Core CS:** Data Structures and Algorithms
+
+* **Languages:** Java, Python
+* **Frontend:** React.js, JavaScript, HTML5, CSS3
+* **Backend:** Node.js, Express.js, Django
+* **Databases:** MongoDB, MySQL, PostgreSQL
+* **Cloud & Tools:** AWS (S3, CloudFront, SNS), Git, GitHub
+* **Core CS:** Data Structures and Algorithms
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern — The Cognitive
+
+**Toronto, ON, Canada (Remote) | Aug 2026 – Sep 2026**
+
+**MathCom Mentors** — React.js, Node.js, MongoDB, AWS
+
+* Owned the project end to end for a **London-based client**, turning requirements into a full-stack platform with **4 user roles**: admin/teacher, grader, student and parent.
+* Built the complete **homework workflow** where teachers assign work, students submit it and graders evaluate submissions with written feedback.
+* Added a **study-material library** and tested the complete application flow before hand-over.
+* Moved file uploads to **AWS S3** and served them through **CloudFront** to keep files off the application server.
+* Used **AWS SNS** for deadline reminders to students and grade alerts to parents.
+* Maintained the codebase with **Git** and clear commits.
 
 ---
 
 ## 🚀 Projects
 
-### 1. Pahal Foundation Website
-A web platform empowering underprivileged children. 
-- **Tech Stack:** HTML, CSS, JavaScript, Python (Django), MySQL, AWS S3, Razorpay
-- **Highlights:** Built responsive frontend, secure Django backend, integrated AWS S3 for storage, Razorpay for payments, and deployed via Render.
+### 1. Healthcare Appointment Manager
 
-### 2. Yatra Saral - Train Travel Platform
-A full-stack train travel application with booking and platform services.
-- **Tech Stack:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Vite
-- **Highlights:** Features e-ticket generation, trip planner, budget calculator, and pantry food ordering. Built with a responsive, bilingual UI (English/Hindi) and Framer Motion animations.
+**AI Clinic Appointment Platform | 2026**
 
-### 3. Track My Spend - Expense Tracker
-A desktop application to automate and simplify student expense tracking.
-- **Tech Stack:** Python (Tkinter), MySQL, Pandas, Twilio API, Matplotlib, Seaborn
-- **Highlights:** Includes WhatsApp-based logging via Twilio, data visualization, and ML-based expense predictions.
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API, Google Calendar API
+
+* Built a doctor appointment platform with **3 roles**: patient, doctor and admin.
+* Patients describe their symptoms before the visit; the **Gemini model** rates urgency, summarises the problem and suggests **3 questions** for the doctor.
+* Prevented double booking by holding a slot for **10 minutes**; when 10 patients try to book the same slot simultaneously, exactly one booking succeeds.
+* Added Google Calendar integration for appointments.
+* Automated medicine reminders with email notifications for up to **3 doses per day** and retry logic for failed emails, up to **5 times**.
+
+### 2. Pahal Foundation
+
+**NGO Web Platform | 2026**
+
+**Tech Stack:** Django, Python, JavaScript, Razorpay, AWS S3
+
+* Built a web platform for an NGO that educates underprivileged children, moving **student admissions, student records, daily attendance and volunteer sign-ups** from paper to a digital system.
+* Integrated **Razorpay** for online donations with **server-side payment verification** and an auditable transaction record.
+* Built separate dashboards for **admins and teachers** to manage admissions, attendance, volunteers and media.
+* Offloaded uploads to **AWS S3** to keep files off the application server.
+
+### 3. Yatra Saral
+
+**Train Travel Platform | 2025**
+
+**Tech Stack:** React.js, TypeScript, Node.js, Express.js, MongoDB
+
+* Covered a train journey end to end with **seat and group booking, e-ticket generation, live tracking, platform services, pantry ordering and insurance**.
+* Secured sign-up with **email OTP verification** and password recovery.
+* Added a profile area for **ticket download, cancellation, booking history and saved passengers**.
+* Built a bilingual **Hindi/English interface** with read-aloud support and adjustable font sizes for elderly and low-literacy travellers.
 
 ---
 
-## 🏆 Achievements & Certifications
-- **Elite Certification** - Introduction to Machine Learning (NPTEL, IIT Madras - 2025)
-- **Cloud Computing 101 Badge** - AWS Educate (2025)
-- **The Bits and Bytes of Computer Networking** - Google Coursera (2024)
-- **Participant** - SolVIT Hackathon 2025, VIT Bhopal
-- **Certificate of Participation** - National Financial Literacy Quiz (NISM & SEBI - 2026)
+## 🏆 Certifications
+
+* **AWS Cloud Practitioner Essentials – Gold (93%)** — FutureSkills Prime (NASSCOM IT-ITeS SSC & MeitY), 2026
+* **Oracle Certified Foundations Associate – Agentic AI** — Oracle University, 2026
+* **MongoDB Java Developer Path — Indexing Design Fundamentals** — MongoDB, 2026
+* **Frontend Developer (React), Node.js, SQL, CSS** — HackerRank, 2026
 
 ---
 
-## ⚡ Additional
-- **Soft Skills:** Teamwork, Leadership, Communication, Problem-solving
-- **Languages Spoken:** English, Hindi, Punjabi
-- **Hobbies:** Cricket, Chess, Music
+## 📌 What I Work With
+
+I like building applications that combine **clean frontend experiences, reliable backend APIs, databases, cloud storage, third-party APIs and real-world workflows**.
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** [23rudragupta@gmail.com](mailto:23rudragupta@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/rudrag23](https://linkedin.com/in/rudrag23)
+
+💻 **GitHub:** [github.com/Rudragupta23](https://github.com/Rudragupta23)
+
+🌐 **Portfolio:** [rudraguptaportfolio.live](https://rudraguptaportfolio.live/)
