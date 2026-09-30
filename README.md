@@ -5,7 +5,9 @@
 I’m a final-year Computer Science and Engineering student at **Vellore Institute of Technology, Bhopal**, with a **9.15/10.0 CGPA**. I enjoy building full-stack applications, working with cloud services and solving real-world problems through software.
 
 📫 **Contact:** [23rudragupta@gmail.com](mailto:23rudragupta@gmail.com) | +91 98968 00458
-🔗 **Portfolio:** [rudraguptaportfolio.live](https://rudraguptaportfolio.live/) | **GitHub:** [Rudragupta23](https://github.com/Rudragupta23) | **LinkedIn:** [rudrag23](https://linkedin.com/in/rudrag23)
+🔗 **Portfolio:** [rudraguptaportfolio.live](https://rudraguptaportfolio.live/) 
+🔗 **GitHub:** [Rudragupta23](https://github.com/Rudragupta23) 
+🔗 **LinkedIn:** [rudrag23](https://linkedin.com/in/rudrag23)
 
 ---
 
